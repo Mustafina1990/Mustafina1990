@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I`m Yuliia, an enthusiastic and attentive to detail Frontend developer looking for an entry-level position in the company. :simple_smile:
 
 <!--
 **Mustafina1990/Mustafina1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
