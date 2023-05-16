@@ -1,4 +1,4 @@
-### Hi there 👋 I`m Yuliia, an enthusiastic and attentive to detail Frontend developer looking for an entry-level position in the company. 
+### As a junior frontend developer, I have completed various courses and programs to enhance my skills in web development. With a solid understanding of HTML/CSS, JavaScript, React/Angular, and Node JS, I am passionate about creating dynamic and responsive web pages and applications. I have gained practical experience through internships and work in procurement and coordination offices, where I have demonstrated my ability to work independently, learn quickly, and stay motivated. Additionally, I am an active volunteer in organizations that promote gender diversity and inclusion in the tech industry. I am excited to continue learning and refining my skills as a frontend developer.
 
 <!--
 **Mustafina1990/Mustafina1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
